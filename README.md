@@ -1,0 +1,2 @@
+# FactoryMethod
+Фабричный Метод
