@@ -12,7 +12,7 @@ public class Main {
         System.out.printf("Created {%s}\n", data);
     }
 
-    public static void echo(String data){
+    static void echo(String data){
         System.out.println(data);
     }
 }
